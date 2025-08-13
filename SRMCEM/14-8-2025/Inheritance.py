@@ -9,3 +9,4 @@ class Child(Parent):
 obj = Child()
 obj.greet()  # inherited
 obj.play()   # own method
+
